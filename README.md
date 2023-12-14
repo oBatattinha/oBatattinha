@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Erick!👋+;Seja+bem+vindo+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Ol%C3%A1+Mundo!+Meu+nome+%C3%A9+Juan+Ségio!👋)](https://git.io/typing-svg)
 ### Olá! eu sou o Juan Sérgio. 
 Amo nicks com nomes de comida!🍟
 
