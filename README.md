@@ -2,13 +2,13 @@
 
 Amo nicks com nomes de comida!🍟
 
+![oBatattinha GitHub stats](https://github-readme-stats.vercel.app/api?username=oBatattinha&show_icons=true&theme=dark)
+
 <div> 
   <a href = "mailto:juan.sergio227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juansergio-cs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![oBatattinha GitHub stats](https://github-readme-stats.vercel.app/api?username=oBatattinha&show_icons=true&theme=dark)
 
 ## Utilizados no dia a dia
 
